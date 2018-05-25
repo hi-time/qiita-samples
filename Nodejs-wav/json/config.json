@@ -1,0 +1,7 @@
+/*
+    サンプル ChoromeではhttpsでないとgetUserMediaが使用不可のため注意
+    {
+        "key" : "/vagrant/.ssl/privkey.pem",
+        "cert" : "/vagrant/.ssl/cert.pem"
+    }
+*/
