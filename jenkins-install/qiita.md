@@ -196,7 +196,6 @@ mkdir ./PROJECT
 
 
 1. gitサーバのwebhookにjenkinsのURLを登録する
-    * プロジェクト設定 -> git -> 編集 -> webフックURL
     ```
     http://yourhost.com/jenkins/job/JOB名/build?token=認証トークン
     ```
